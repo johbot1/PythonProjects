@@ -1,5 +1,5 @@
 import numpy as np
 
-print(msg)
+number = np.random.randint(0,10)
 
-print(np.random.randint(1,9))
+print(number)
